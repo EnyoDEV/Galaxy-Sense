@@ -22,3 +22,12 @@ i.e.
 ./build.sh galaxys kernel
 
 
+.build sense make
+
+sudo make menuconfig
+
+xoiz make compile
+
+sh buildsensegood.sh
+
+Y/m/N (Yes)
